@@ -12,11 +12,5 @@
 .content{
 	text-align: center;
 	position: relative;
-	top: 20%;
-}
-.h1{
-	font-size: 800px;
-	font-weight: bold;
-	color: blue;
-	text-decoration: none;
+	top: 50%;
 }
