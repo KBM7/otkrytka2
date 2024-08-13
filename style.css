@@ -5,15 +5,15 @@
 	font-family: "Pacifico", cursive;
 }
 .main{
-     width: 100%;
-     height: 85vh;
+     width: 80%;
+     height: 60vh;
      background-color: #E2E2B6;
 }
 .content{
 	text-align: center;
 	position: relative;
-	top: 30%;
-	font-size: 24px;
+	top: 20%;
+	font-size: 48px;
 	font-weight: bold;
 	color: blue;
 	text-decoration: none;
